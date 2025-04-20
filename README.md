@@ -60,7 +60,7 @@ python vector_store.py
 ### 1. Start FastAPI Backend
 
 ```bash
-uvicorn backend.main:app --reload
+uvicorn main:app --reload
 ```
 
 Runs at: `http://localhost:8000`
@@ -68,7 +68,7 @@ Runs at: `http://localhost:8000`
 ### 2. Start Streamlit Frontend
 
 ```bash
-streamlit run ui/app.py
+streamlit run streamlit_app.py
 ```
 
 Runs at: `http://localhost:8501`
