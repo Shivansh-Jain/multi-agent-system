@@ -1,0 +1,436 @@
+{
+    "NewYork": [
+        {
+            "question": "What is the maximum security deposit a landlord can charge in NYC?",
+            "answer": "In New York City, a landlord cannot demand or receive a security deposit or advance payment that is more than one month's rent. This applies to most residential tenancies."
+        },
+        {
+            "question": "What is the Warranty of Habitability in NYC?",
+            "answer": "The Warranty of Habitability is a legal requirement in New York State ensuring that residential rental properties are fit for human occupancy and free from conditions dangerous to life, health, or safety. Landlords must make necessary repairs to maintain this standard."
+        },
+        {
+            "question": "How much notice must a landlord give for a rent increase in NYC?",
+            "answer": "The required notice period depends on the length of the tenancy and the percentage of the rent increase. For increases over 5% or if the landlord intends not to renew the lease, specific notice periods apply: 30 days (less than 1 year tenancy), 60 days (1-2 years tenancy), or 90 days (2+ years tenancy or rent-stabilized)."
+        },
+        {
+            "question": "What are my rights if my NYC apartment needs repairs?",
+            "answer": "You should notify your landlord in writing about needed repairs. If the landlord fails to make necessary repairs under the Warranty of Habitability, you may have options like withholding rent (placing it in escrow is often advised), initiating an HP Action in Housing Court, or making repairs yourself and deducting the cost (use caution with this)."
+        },
+        {
+            "question": "Can a landlord enter my NYC apartment anytime?",
+            "answer": "No. Generally, landlords must provide reasonable written notice (usually at least 24 hours) before entering, except in emergencies (like fire or flood). Entry must be at reasonable times and for legitimate reasons like repairs, inspections, or showing the unit."
+        },
+        {
+            "question": "What is rent stabilization in NYC?",
+            "answer": "Rent stabilization is a system that limits rent increases and provides tenants with renewal rights for apartments in buildings built before 1974 with six or more units (with some exceptions). Increases are set annually by the Rent Guidelines Board."
+        },
+        {
+            "question": "How does the eviction process work in NYC?",
+            "answer": "A landlord cannot simply lock you out. They must first terminate the tenancy with proper notice, then file a case in Housing Court, serve you with court papers, and obtain a court order (Warrant of Eviction) which is then executed by a City Marshal."
+        },
+        {
+            "question": "When must my landlord return my security deposit in NYC?",
+            "answer": "Landlords must return the security deposit within 14 days after the tenant vacates the apartment. They can only deduct for damages beyond normal wear and tear and must provide an itemized list of deductions if any part is withheld."
+        },
+        {
+            "question": "Can I sublet my apartment in NYC?",
+            "answer": "In buildings with four or more units, tenants generally have the right to sublet, subject to the landlord's reasonable consent (which cannot be unreasonably withheld). You must follow specific procedures, including requesting permission from the landlord in writing."
+        },
+        {
+            "question": "What should be included in a NYC lease agreement?",
+            "answer": "A lease should clearly state the names of landlord and tenant, address of the property, lease term (start/end dates), rent amount and due date, security deposit amount, rules and regulations, and responsibilities for utilities and repairs."
+        },
+        {
+            "question": "Are late fees for rent legal in NYC?",
+            "answer": "Yes, but only if specified in the lease. The fee cannot be charged until the rent is at least 5 days late, and it cannot exceed $50 or 5% of the monthly rent, whichever is less."
+        },
+        {
+            "question": "What is 'normal wear and tear'?",
+            "answer": "Normal wear and tear refers to the expected decline in the condition of a property due to normal, everyday use. Examples include minor scuffs on walls, faded paint, or worn carpets. Landlords cannot deduct from the security deposit for normal wear and tear."
+        },
+        {
+            "question": "Does my landlord have to provide heat and hot water?",
+            "answer": "Yes. Under the Warranty of Habitability and NYC Housing Maintenance Code, landlords must provide tenants with heat and hot water. Specific temperature requirements apply during 'Heat Season' (October 1st to May 31st)."
+        },
+        {
+            "question": "What can I do about landlord harassment in NYC?",
+            "answer": "Landlord harassment is illegal. It can include things like cutting off essential services, using threats, or starting baseless court cases. You can file a complaint with HPD or seek legal assistance."
+        },
+        {
+            "question": "Do I need renters insurance in NYC?",
+            "answer": "While not always legally required by the state, many landlords require it as part of the lease agreement. It's highly recommended as it protects your personal belongings from theft, fire, or damage, which the landlord's insurance does not cover."
+        },
+        {
+            "question": "What is the maximum security deposit a landlord can charge in New York City?",
+            "answer": "In New York City, landlords are limited to charging a maximum of one month's rent as a security deposit."
+        },
+        {
+            "question": "Where must a landlord keep the tenant's security deposit in NY?",
+            "answer": "The landlord must keep the security deposit in an interest-bearing account in a New York State bank and must inform the tenant of the bank's name and address."
+        },
+        {
+            "question": "Is the tenant entitled to the interest earned on the security deposit in NY?",
+            "answer": "Yes, the landlord must pay the tenant the full annual interest earned on the deposit, minus a 1% fee for the landlord's administrative costs."
+        },
+        {
+            "question": "What is the Warranty of Habitability in New York?",
+            "answer": "The Warranty of Habitability is a legal provision ensuring tenants are entitled to an apartment that is safe, clean, and livable, without conditions that endanger their life, health, or safety. Landlords must maintain the property and make necessary repairs."
+        },
+        {
+            "question": "Who is responsible for repairs in a rented apartment in NYC?",
+            "answer": "Generally, the landlord is responsible for making necessary repairs to keep the apartment habitable. This includes structural elements, plumbing, heating, hot water, and appliances provided with the lease. However, tenants may be liable for damages caused by their negligence."
+        },
+        {
+            "question": "What can a tenant do if the landlord fails to make necessary repairs in NYC?",
+            "answer": "Tenants should first notify the landlord in writing. If the landlord doesn't respond, tenants can file a complaint with the NYC Department of Housing Preservation & Development (HPD), potentially make repairs and deduct the cost (with caution and legal advice recommended), or file for a rent reduction for decreased services if the unit is rent-stabilized."
+        },
+        {
+            "question": "Can a landlord enter a tenant's apartment anytime in NYC?",
+            "answer": "No, landlords must generally provide reasonable notice (usually 24 hours written notice) before entering an apartment for non-emergency repairs or inspections. Entry without notice is typically only allowed in emergencies."
+        },
+        {
+            "question": "What are rent stabilization laws in NYC?",
+            "answer": "Rent stabilization is a form of rent regulation in NYC that applies mainly to buildings with 6+ units built before 1974. It limits how much landlords can increase rent each year (set by the Rent Guidelines Board) and provides tenants with rights like lease renewal."
+        },
+        {
+            "question": "How can I find out if my NYC apartment is rent-stabilized?",
+            "answer": "You can request your apartment's rent history from the NYS Division of Housing and Community Renewal (DHCR) to check its registration status and legal regulated rent."
+        },
+        {
+            "question": "What are the main grounds for eviction in NYC?",
+            "answer": "Common grounds include non-payment of rent, violating a significant term of the lease (like illegal subletting or causing damage), creating a nuisance, or using the property for illegal purposes. Landlords must follow a strict legal process through Housing Court."
+        },
+        {
+            "question": "Can a landlord lock a tenant out in NYC?",
+            "answer": "No, it is illegal for a landlord to lock a tenant out or remove their belongings without a court order authorizing an eviction. This is considered an illegal lockout or self-help eviction."
+        },
+        {
+            "question": "What rights do tenants have regarding roommates in NYC?",
+            "answer": "Tenants generally have the right to have at least one additional non-familial roommate, plus the roommate's dependent children, as long as occupancy limits are respected. The lease cannot unreasonably restrict this."
+        },
+        {
+            "question": "Can a tenant sublet their apartment in NYC?",
+            "answer": "Tenants in buildings with four or more units generally have the right to request permission to sublet. Landlords cannot unreasonably deny this request. Tenants must follow specific procedures outlined by law."
+        },
+        {
+            "question": "What constitutes landlord harassment in NYC?",
+            "answer": "Landlord harassment includes actions intended to force a tenant out or make them give up their rights, such as threats, cutting off essential services (heat, water), frequent baseless lawsuits, or physical intimidation. It is illegal."
+        },
+        {
+            "question": "Are there protections against discrimination in housing in NYC?",
+            "answer": "Yes, the NYC Human Rights Law prohibits housing discrimination based on race, color, creed, age, national origin, gender, gender identity, sexual orientation, disability, marital status, lawful source of income, and other protected characteristics."
+        },
+        {
+            "question": "How much notice must a landlord give to terminate a month-to-month tenancy in NY?",
+            "answer": "The amount of notice depends on how long the tenant has lived there: 30 days' notice if tenancy is less than one year; 60 days' notice if tenancy is one year or more, but less than two years; 90 days' notice if tenancy is two years or more."
+        },
+        {
+            "question": "Can a tenant break a lease early in NY due to unsafe conditions?",
+            "answer": "Yes, if the apartment violates the Warranty of Habitability (e.g., severe mold, lack of heat) and the landlord fails to fix the issues after proper notification, the tenant may have grounds to break the lease under a concept called 'constructive eviction'."
+        },
+        {
+            "question": "What happens if a tenant fails to pay rent in NYC?",
+            "answer": "The landlord must first make a written demand for the rent (often a 14-day notice). If the rent isn't paid, the landlord can start a non-payment eviction case in Housing Court."
+        },
+        {
+            "question": "Who provides janitorial or superintendent services in NYC apartment buildings?",
+            "answer": "In buildings with nine or more units, the landlord must provide either janitorial/superintendent services themselves (if living on-site), hire a superintendent residing nearby, or ensure janitorial services are available 24/7."
+        },
+        {
+            "question": "What are tenant succession rights in rent-regulated apartments in NYC?",
+            "answer": "Certain family members (including non-traditional family members in some cases) who have lived with the primary rent-regulated tenant for a specific period may have the right to take over the lease (succeed) when the primary tenant permanently leaves or passes away."
+        }
+    ],
+    "London": [
+        {
+            "question": "What is an Assured Shorthold Tenancy (AST) in London?",
+            "answer": "An AST is the most common type of tenancy agreement used by private landlords in England and Wales, including London. It grants tenants basic rights but allows landlords to regain possession more easily after the fixed term ends (using a Section 21 notice) compared to older tenancy types."
+        },
+        {
+            "question": "Does my landlord have to protect my tenancy deposit in London?",
+            "answer": "Yes. If you have an AST that started after April 6, 2007, your landlord must protect your deposit in one of the three government-approved Tenancy Deposit Protection (TDP) schemes within 30 days of receiving it."
+        },
+        {
+            "question": "What are a landlord's main repair responsibilities in London?",
+            "answer": "Landlords are generally responsible for repairs to the structure and exterior of the property (walls, roof, windows, doors), as well as installations for supply of water, gas, electricity, sanitation (basins, sinks, baths), and heating/hot water systems."
+        },
+        {
+            "question": "How much notice does a landlord need to give to increase rent?",
+            "answer": "For periodic tenancies (rolling month-to-month), landlords usually need to give one month's notice using a specific form ('Section 13 notice'). For fixed-term tenancies, rent can typically only be increased if there's a rent review clause in the agreement or if the tenant agrees."
+        },
+        {
+            "question": "Can my landlord enter my home whenever they want in London?",
+            "answer": "No. Tenants have a right to 'quiet enjoyment'. Landlords must give at least 24 hours' written notice before visiting for inspections or repairs, unless it's an emergency. Visits should be at reasonable times."
+        },
+        {
+            "question": "What is a Section 21 notice?",
+            "answer": "A Section 21 notice is the legal notice a landlord uses to start the process of regaining possession of a property let on an AST without having to provide a specific reason (a 'no-fault' eviction), usually after the fixed term ends. Strict rules apply to its validity."
+        },
+        {
+            "question": "What is a Section 8 notice?",
+            "answer": "A Section 8 notice is used when a landlord wants to evict a tenant during the fixed term or a periodic tenancy because the tenant has breached the tenancy agreement (e.g., rent arrears, property damage). The notice must state the specific grounds for eviction."
+        },
+        {
+            "question": "When should I get my tenancy deposit back?",
+            "answer": "Your deposit should be returned within 10 days of agreeing on the amount with the landlord, after the tenancy ends. If there's a dispute, the TDP scheme offers a free dispute resolution service."
+        },
+        {
+            "question": "What are 'Right to Rent' checks?",
+            "answer": "Landlords in England must check that prospective tenants have the legal right to rent property in the UK before the tenancy starts. This involves checking original identification documents."
+        },
+        {
+            "question": "What happens if my fixed-term tenancy ends and I stay?",
+            "answer": "If your fixed-term AST ends and you stay without signing a new agreement, it automatically becomes a 'statutory periodic tenancy', usually rolling on a month-to-month basis under the same terms as the original agreement."
+        },
+        {
+            "question": "Can I sublet my room or property in London?",
+            "answer": "You usually need your landlord's permission to sublet. Check your tenancy agreement; many ASTs prohibit subletting without consent. Subletting without permission can be grounds for eviction."
+        },
+        {
+            "question": "What is an inventory and schedule of condition?",
+            "answer": "An inventory is a detailed list of the property's contents (furniture, fixtures, fittings) and their condition at the start of the tenancy, often including photos. Both landlord and tenant should agree on and sign it to avoid disputes over the deposit later."
+        },
+        {
+            "question": "Are landlords responsible for pest control?",
+            "answer": "Responsibility can depend on the cause. If pests were present at the start or due to disrepair the landlord should have fixed, it's likely the landlord's responsibility. If caused by tenant's lifestyle (e.g., poor waste disposal), it may be the tenant's responsibility."
+        },
+        {
+            "question": "What information must my landlord provide at the start of the tenancy?",
+            "answer": "Landlords must provide tenants with a valid Gas Safety Certificate (if applicable), an Energy Performance Certificate (EPC), the government's 'How to Rent' guide, and details of the deposit protection scheme used."
+        },
+        {
+            "question": "Can a landlord refuse tenants with children or pets?",
+            "answer": "Landlords cannot discriminate based on protected characteristics, but 'no children' or 'no pets' clauses are common. While blanket bans might be challenged as indirectly discriminatory in some cases, landlords generally have discretion unless it violates fair housing principles."
+        },
+        {
+            "question": "What is council tax and who pays it?",
+            "answer": "Council tax is a local tax levied on domestic properties. Usually, the tenants living in the property are responsible for paying the council tax, unless it's a House in Multiple Occupation (HMO) where the landlord often pays."
+        },
+        {
+            "question": "What is the most common type of tenancy agreement in London?",
+            "answer": "The most common type is the Assured Shorthold Tenancy (AST) for private residential rentals."
+        },
+        {
+            "question": "What is a Tenancy Deposit Protection (TDP) scheme in the UK?",
+            "answer": "If you rent your home on an Assured Shorthold Tenancy that started after April 6, 2007, your landlord must place your deposit in a government-approved Tenancy Deposit Protection scheme within 30 days of receiving it."
+        },
+        {
+            "question": "What are the approved TDP schemes in England and Wales?",
+            "answer": "The approved schemes are the Tenancy Deposit Scheme (TDS), the Deposit Protection Service (DPS), and MyDeposits."
+        },
+        {
+            "question": "What basic rights do tenants have in London/UK?",
+            "answer": "Tenants have the right to live in a property that is safe and in good repair, have their deposit protected and returned (less legitimate deductions), challenge excessive charges, know their landlord's identity, live undisturbed (quiet enjoyment), and be protected from unfair eviction."
+        },
+        {
+            "question": "Who is responsible for repairs in a rented property in London?",
+            "answer": "The landlord is generally responsible for repairs to the property's structure and exterior, heating and hot water systems, basins, sinks, baths, pipes, drains, gas appliances, electrical wiring, and any damage caused during their repair attempts."
+        },
+        {
+            "question": "What are the tenant's responsibilities regarding property maintenance?",
+            "answer": "Tenants are responsible for taking good care of the property, paying rent and agreed-upon charges (like council tax/utilities), minor maintenance (like changing lightbulbs), and repairing any damage caused by themselves, their family, or guests."
+        },
+        {
+            "question": "How much notice must a landlord give before entering a tenant's property in London?",
+            "answer": "Landlords must usually give at least 24 hours' written notice and arrange the visit for a reasonable time, unless it's an emergency requiring immediate access."
+        },
+        {
+            "question": "Can a landlord increase the rent whenever they want in London?",
+            "answer": "For a periodic tenancy (rolling month-to-month/week-to-week), rent usually cannot be increased more than once a year without the tenant's agreement. For a fixed-term tenancy, rent can only be increased if the tenant agrees or if there's a specific rent review clause in the agreement; otherwise, it can only be increased at the end of the fixed term."
+        },
+        {
+            "question": "How must a landlord propose a rent increase?",
+            "answer": "If the tenancy agreement outlines a procedure, the landlord must follow it. Otherwise, they can agree on the increase with the tenant (and record it in writing), issue a new tenancy agreement at the end of the fixed term with the higher rent, or use a formal Section 13 notice for periodic tenancies."
+        },
+        {
+            "question": "What is a Section 21 notice in England?",
+            "answer": "A Section 21 notice is a legal notice a landlord can use to regain possession of a property at the end of a fixed-term tenancy or during a periodic tenancy, without having to provide a specific reason (a 'no-fault' eviction). Certain conditions must be met for it to be valid (e.g., deposit protection, providing required documents)."
+        },
+        {
+            "question": "What is a Section 8 notice in England?",
+            "answer": "A Section 8 notice is used when the landlord seeks possession because the tenant has breached the tenancy agreement (e.g., rent arrears, property damage, anti-social behaviour). The notice must state the specific ground(s) for eviction listed in the Housing Act 1988."
+        },
+        {
+            "question": "How much notice does a Section 21 notice require?",
+            "answer": "Currently, a Section 21 notice must give the tenant at least two months' notice to leave."
+        },
+        {
+            "question": "Can a landlord evict a tenant without a court order in the UK?",
+            "answer": "No, landlords cannot forcibly remove tenants. If a tenant does not leave after a valid notice expires, the landlord must apply to the court for a possession order and, if necessary, a warrant for eviction carried out by court bailiffs."
+        },
+        {
+            "question": "What is the 'Right to Rent' check?",
+            "answer": "Landlords in England must check that prospective tenants have the legal right to rent property in the UK before the tenancy starts. This involves checking identification documents."
+        },
+        {
+            "question": "What documents must a landlord provide at the start of an AST in England?",
+            "answer": "Landlords must provide the tenant with a copy of the government's 'How to Rent' guide, a valid Gas Safety Certificate (if applicable), and an Energy Performance Certificate (EPC)."
+        },
+        {
+            "question": "Can a tenant sublet their property in London?",
+            "answer": "Tenants can only sublet if their tenancy agreement explicitly allows it or if they get written permission from their landlord. Unauthorised subletting is a breach of contract."
+        },
+        {
+            "question": "What can a tenant do if the landlord isn't doing necessary repairs?",
+            "answer": "Tenants should report issues to the landlord in writing. If the landlord fails to act, the tenant can contact the environmental health department at their local council, which can inspect the property and order the landlord to carry out repairs if hazards exist."
+        },
+        {
+            "question": "What happens if a tenant wants to end a fixed-term tenancy early?",
+            "answer": "Tenants are usually bound by the fixed term. They can only end it early if the tenancy agreement contains a break clause, or if the landlord agrees to release them from the contract (known as surrender)."
+        },
+        {
+            "question": "How much notice must a tenant give to end a periodic tenancy?",
+            "answer": "For a statutory periodic tenancy, the tenant must typically give notice equivalent to the rental period (e.g., one month for monthly rent), ending on the last day of a rental period. The minimum notice period is usually 28 days (in Scotland) or one month (common practice in England)."
+        },
+        {
+            "question": "What is 'quiet enjoyment'?",
+            "answer": "This is a tenant's right to live in the property without unnecessary disturbance from the landlord or anyone acting on their behalf."
+        }
+    ],
+    "Bengaluru": [
+        {
+            "question": "What is the standard duration for a rental agreement in Bengaluru?",
+            "answer": "Rental agreements are commonly made for 11 months to avoid mandatory registration requirements that apply to leases of 12 months or longer under the Registration Act, 1908. However, longer leases are possible but require registration."
+        },
+        {
+            "question": "Is there a limit on the security deposit (advance) landlords can ask for in Bengaluru?",
+            "answer": "Traditionally, landlords in Bengaluru often asked for 6-10 months' rent as a security deposit. However, the Model Tenancy Act, 2021 (MTA), which Karnataka is considering adopting, proposes capping the security deposit at a maximum of two months' rent. Current practice may still vary widely."
+        },
+        {
+            "question": "Are rental agreements required to be in writing?",
+            "answer": "While oral agreements exist, a written and signed rental agreement is strongly recommended and legally prudent. It clearly outlines terms and conditions, reducing potential disputes. The MTA mandates written agreements."
+        },
+        {
+            "question": "Who is typically responsible for repairs in a rented property in Bengaluru?",
+            "answer": "Generally, the landlord is responsible for major structural repairs and maintaining the property in a habitable condition. The tenant is usually responsible for minor day-to-day repairs and upkeep resulting from usage. The specific division of responsibilities should be clearly stated in the rental agreement."
+        },
+        {
+            "question": "How can a landlord increase the rent in Bengaluru?",
+            "answer": "Rent increases should ideally be governed by a clause in the rental agreement (e.g., a 5-10% increase upon renewal). If not specified, it's typically subject to negotiation between the landlord and tenant upon renewal. Arbitrary mid-term increases are generally not permissible unless agreed upon."
+        },
+        {
+            "question": "What is the process for eviction in Bengaluru?",
+            "answer": "A landlord cannot forcibly evict a tenant. They must have valid grounds (as potentially specified in the Karnataka Rent Act or the rental agreement, e.g., non-payment of rent, subletting without permission, misuse of property) and must typically serve a legal notice. If the tenant doesn't vacate, the landlord usually needs to file an eviction suit in the appropriate court."
+        },
+        {
+            "question": "When should the security deposit be returned after vacating?",
+            "answer": "The rental agreement usually specifies the timeline for returning the security deposit. Commonly, it's returned shortly after the tenant vacates, handover of keys, and inspection of the property for damages (beyond normal wear and tear). Any deductions should be justified."
+        },
+        {
+            "question": "Can a tenant sublet the property in Bengaluru?",
+            "answer": "Subletting is generally not allowed unless the rental agreement explicitly permits it or the landlord gives written consent. Unauthorized subletting can be grounds for eviction."
+        },
+        {
+            "question": "Is tenant police verification mandatory in Bengaluru?",
+            "answer": "Yes, landlords in Bengaluru are generally required by the city police to conduct police verification of their tenants as a security measure. Both landlord and tenant typically need to submit necessary forms and documents to the local police station."
+        },
+        {
+            "question": "What is 'normal wear and tear' in the context of Indian rentals?",
+            "answer": "Similar to other places, normal wear and tear refers to the natural deterioration of the property due to aging and ordinary use (e.g., paint fading, minor carpet wear). It does not include damages caused by negligence or misuse (e.g., broken windows, large stains, holes in walls)."
+        },
+        {
+            "question": "Does the landlord need to give notice before entering the property?",
+            "answer": "Yes, tenants have a right to privacy. Landlords should provide reasonable notice (often specified in the agreement, e.g., 24 hours) before entering for non-emergency reasons like inspections or repairs."
+        },
+        {
+            "question": "Who pays for electricity, water, and maintenance charges?",
+            "answer": "This is typically specified in the rental agreement. Usually, tenants pay for their consumption charges (electricity, water based on meter readings) and sometimes a share of society maintenance charges. Landlords usually pay property taxes."
+        },
+        {
+            "question": "What is the role of the Karnataka Rent Act?",
+            "answer": "The Karnataka Rent Act, 1999, primarily governs older tenancies and specific types of properties, often providing tenants with stronger protection against eviction and rent increases. Many newer rental agreements, especially 11-month ones, may operate outside its direct purview, relying more on contract law and Transfer of Property Act principles, though its spirit might influence negotiations."
+        },
+        {
+            "question": "What happens if the rental agreement expires and the tenant continues to stay?",
+            "answer": "If the tenant stays with the landlord's consent after expiry (implied or explicit), it often becomes a month-to-month tenancy, governed by the terms of the expired agreement unless new terms are agreed upon. Both parties typically need to give notice (often one month) to terminate this arrangement."
+        },
+        {
+            "question": "What is the impact of the Model Tenancy Act, 2021 on Bengaluru rentals?",
+            "answer": "The Model Tenancy Act (MTA) is a central government framework that states must adopt and adapt. While Karnataka is considering it, its direct impact depends on state-level legislation. Key proposals include capping security deposits, establishing Rent Authorities for dispute resolution, and clearly defining landlord/tenant obligations. It aims to formalize the rental market."
+        },
+        {
+            "question": "Can a landlord cut off essential services like water or electricity?",
+            "answer": "No, cutting off essential services like water or electricity supply to force a tenant out is illegal. Tenants facing this should seek legal recourse."
+        },
+        {
+            "question": "What is the primary law governing rentals in Bengaluru (Karnataka)?",
+            "answer": "While the central Model Tenancy Act, 2021 exists as a guideline, rental agreements in Bengaluru are largely governed by the terms agreed upon in the rental agreement itself and provisions of the Transfer of Property Act, 1882. The older Karnataka Rent Control Act, 1999 has limited applicability, mainly to older tenancies and specific building types."
+        },
+        {
+            "question": "Is a written rental agreement mandatory in Bengaluru?",
+            "answer": "Yes, under the framework suggested by the Model Tenancy Act (which Karnataka is encouraged to adopt), a written agreement signed by both landlord and tenant is mandatory. It should be registered with the relevant Rent Authority."
+        },
+        {
+            "question": "What details should a rental agreement in Bengaluru include?",
+            "answer": "It should clearly state the names and addresses of the landlord and tenant, property description, rent amount, security deposit details, tenancy period, terms for rent revision, and responsibilities for maintenance."
+        },
+        {
+            "question": "What is the typical security deposit amount asked for in Bengaluru?",
+            "answer": "Practices vary widely. While the Model Tenancy Act suggests capping deposits at two months' rent for residential properties, it's common practice in Bengaluru for landlords to ask for significantly higher amounts, often ranging from 5 to 10 months' rent."
+        },
+        {
+            "question": "When should the security deposit be refunded?",
+            "answer": "The security deposit should be refunded by the landlord when the tenant vacates the property, after deducting any agreed-upon amounts for damages (beyond normal wear and tear) or unpaid rent."
+        },
+        {
+            "question": "Who is responsible for repairs and maintenance in a rented property in Bengaluru?",
+            "answer": "Generally, the rental agreement specifies responsibilities. Often, landlords handle major structural repairs, while tenants manage day-to-day upkeep and minor repairs. The Model Tenancy Act provides a schedule outlining default responsibilities if not specified in the agreement."
+        },
+        {
+            "question": "Can a landlord enter the tenant's premises anytime in Bengaluru?",
+            "answer": "No, tenants have a right to privacy. Landlords should provide reasonable notice (typically 24 hours as per the Model Act, unless specified otherwise or in emergencies) before entering the rented premises for inspections or repairs."
+        },
+        {
+            "question": "How often can rent be increased in Bengaluru?",
+            "answer": "This is usually governed by the rental agreement. If the agreement specifies a rent review clause (e.g., a 5-10% increase annually), that applies. If not specified, under the Model Act framework, rent cannot be increased during the fixed term unless agreed upon for improvements. Landlords generally need to give notice (e.g., 3 months under the Model Act) before increasing rent."
+        },
+        {
+            "question": "What are the legal grounds for evicting a tenant in Bengaluru?",
+            "answer": "Common grounds include failure to pay rent for a specified period (e.g., two consecutive months), subletting without permission, misuse of the property, causing significant damage, or if the landlord requires the property for their own genuine use. These are often detailed in the rental agreement and align with principles in the Transfer of Property Act and the Model Tenancy Act."
+        },
+        {
+            "question": "What is the eviction process in India/Bengaluru?",
+            "answer": "The landlord must first send a formal written 'notice to quit' specifying the reason for eviction and providing the legally required notice period (as per the agreement or Transfer of Property Act - often 15 days or one month). If the tenant doesn't vacate, the landlord must file an eviction suit in the appropriate court (Rent Court/Tribunal under the Model Act framework, or civil court)."
+        },
+        {
+            "question": "Can a landlord cut off essential services like water or electricity to force eviction?",
+            "answer": "No, this is illegal. Landlords cannot resort to 'self-help' methods. Eviction must follow the due legal process through the courts."
+        },
+        {
+            "question": "What notice period is required to terminate a lease if not specified in the agreement?",
+            "answer": "Under Section 106 of the Transfer of Property Act, if the lease purpose isn't specified or is for 'any other purpose' (often interpreted for residential), it's deemed a month-to-month lease terminable by 15 days' notice ending with the end of a tenancy month. For agricultural/manufacturing purposes, it's deemed year-to-year, requiring 6 months' notice."
+        },
+        {
+            "question": "Do tenants have the right to peaceful possession?",
+            "answer": "Yes, tenants have the right to live in the property without undue interference or disturbance from the landlord, provided they adhere to the terms of the agreement."
+        },
+        {
+            "question": "Can a tenant make structural changes to the property?",
+            "answer": "No, tenants generally cannot make structural alterations without the landlord's written permission."
+        },
+        {
+            "question": "Is subletting allowed in Bengaluru?",
+            "answer": "Subletting is typically prohibited unless the rental agreement explicitly permits it, or the tenant obtains written consent from the landlord. The Model Act framework requires joint intimation to the Rent Authority if subletting occurs."
+        },
+        {
+            "question": "What can a tenant do if the landlord refuses to return the security deposit?",
+            "answer": "The tenant can first send a formal demand letter. If the landlord still refuses without valid reason (like documented damages exceeding normal wear and tear), the tenant may need to pursue legal action through the appropriate Rent Court/Tribunal or civil court to recover the amount."
+        },
+        {
+            "question": "Does the Model Tenancy Act, 2021 apply automatically in Karnataka?",
+            "answer": "No, the Model Tenancy Act, 2021 is a central guideline. Each state needs to adopt and enact its own legislation based on the model act for it to be legally binding. While Karnataka has considered it, its full adoption and implementation status may vary, and existing practices/agreements often prevail."
+        },
+        {
+            "question": "What happens if a tenant stays beyond the lease term without renewal (holding over)?",
+            "answer": "If the landlord accepts rent after the lease expires, it may imply a renewal on a month-to-month basis under the previous terms. If the landlord doesn't accept rent and demands the tenant vacate, the tenant becomes a 'tenant at sufferance'. The Model Act suggests penalties (double rent for two months, then quadruple) for failing to vacate after tenancy termination."
+        },
+        {
+            "question": "Who pays for property tax and major society maintenance charges?",
+            "answer": "Usually, property tax is the landlord's responsibility. Responsibility for society maintenance charges should be clearly defined in the rental agreement; sometimes it's borne by the landlord, sometimes by the tenant, or split."
+        },
+        {
+            "question": "Is police verification of tenants mandatory in Bengaluru?",
+            "answer": "While not always strictly enforced everywhere, landlords are often advised or required by local police directives to conduct police verification of tenants, especially in major cities like Bengaluru, as a security measure. The process involves submitting tenant details to the local police station."
+        }
+    ]
+}
