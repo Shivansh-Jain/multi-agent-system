@@ -171,12 +171,36 @@ These questions are embedded using `FastEmbed` and stored in Qdrant for semantic
 
 ---
 
+## 🐳 Run with Docker (Using Docker Hub Image)
+
+### 1. Pull the Docker Image
+
+```bash
+docker pull shivansh45/multi-agent-chatbot:latest
+```
+### 2. Run the Docker Container
+bash
+Copy
+Edit
+```bash
+docker run -p 8000:8000 -p 8501:8501 --env-file .env shivansh45/multi-agent-chatbot:latest
+```
+🔑 Make sure you have a .env file in your project root with your GEMINI_API_KEY before running the container.
+
+Once the container is up and running, you can access the following:
+
+- FastAPI Backend: http://localhost:8000
+
+- Streamlit Frontend: http://localhost:8501
+
+
+
+
 ## 🧪 Extensibility (TODO)
 
 - [x] Add new agents (e.g., Legal Agent, Repair Request Agent)
 - [x] Plug in different LLMs (OpenAI, Gemini, Claude, Mistral, etc.)
 - [ ] Finetunnig model on custom dataset of images of properties for Image Analyzer Agent
-- [ ] Easily dockerized and deployable on cloud platforms
 - [ ] Adding a NER model to recognise city for the FAQ Agent
 - [ ] Add streaming responses
 

@@ -1,0 +1,35 @@
+# Base image with Python
+FROM python:3.11-slim
+
+# Set environment variables
+ENV PYTHONDONTWRITEBYTECODE=1
+ENV PYTHONUNBUFFERED=1
+
+# Set working directory
+WORKDIR /app
+
+# Copy project files
+COPY . /app
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    curl \
+ && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+RUN pip install --upgrade pip \
+ && pip install -r requirements.txt
+
+# Copy environment variables (optional: handle via secrets or external mount in production)
+COPY .env /app/.env
+
+# Run vector store setup (you can make this a build step or a manual one)
+RUN python vector_store.py
+
+# Expose FastAPI and Streamlit ports
+EXPOSE 8000 8501
+
+# Start both FastAPI and Streamlit using a simple process manager
+CMD ["sh", "-c", "uvicorn main:app --host 0.0.0.0 --port 8000 & streamlit run streamlit_app.py --server.port 8501 --server.address 0.0.0.0"]
